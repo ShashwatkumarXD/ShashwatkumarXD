@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently completing **DSA with C++**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/shashwat200418](https://www.linkedin.com/in/shashwat200418)
-
 - 📫 How to reach me **shashwat200418@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
