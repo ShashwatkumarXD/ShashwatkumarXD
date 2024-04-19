@@ -19,6 +19,6 @@ Hello! I'm Shahswat Kumar, a passionate 3rd-year student pursuing a B.Tech in Co
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ShashwatkumarXD&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
